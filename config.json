@@ -8,10 +8,7 @@
   "remember-users-for-hours": 168,
   "remember-hosts-for-days": 30,
   "http-timeout": 5,
-  "on-start": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303
-",
-  "on-done": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303
-",
-  "on-fail": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303
-"
+  "on-start": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303",
+  "on-done": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303",
+  "on-fail": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303"
 }
