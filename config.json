@@ -7,6 +7,7 @@
   "max-favourites": 40,
   "remember-users-for-hours": 168,
   "remember-hosts-for-days": 30,
+  "http-timeout": 5,
   "on-start": "rid=a14a7782-78ed-4396-b68c-ac507e95b303",
   "on-done": "rid=a14a7782-78ed-4396-b68c-ac507e95b303",
   "on-fail": "rid=a14a7782-78ed-4396-b68c-ac507e95b303"
